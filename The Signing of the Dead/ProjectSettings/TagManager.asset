@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zombie
+  - Exit
+  - Encounter
+  - Enemy
+  - Zombie1
+  - Zombie2
+  - Heaven
+  - Zombie3
+  - Zombie4
+  - Zombie5
+  - Zombie6
+  - Zombie7
+  - Zombie8
+  - Zombie9
+  - Zombie10
+  - Zombie11
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
